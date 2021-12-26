@@ -1,5 +1,5 @@
 package adapterPatternWorkOut;
 
-public interface LowerBody {
+public interface WorkOut {
     public void workOut(Integer Height, String WorkOutType);
 }

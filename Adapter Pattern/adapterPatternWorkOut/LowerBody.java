@@ -1,5 +1,5 @@
 package adapterPatternWorkOut;
 
-public interface PowerRackHeight {
+public interface LowerBody {
     public void workOut(Integer Height, String WorkOutType);
 }

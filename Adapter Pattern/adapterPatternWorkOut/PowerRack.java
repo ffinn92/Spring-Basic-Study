@@ -1,6 +1,6 @@
 package adapterPatternWorkOut;
 
-public class PowerRack implements PowerRackHeight {
+public class PowerRack implements LowerBody {
 
     @Override
     public void workOut(Integer Height, String WorkOutType) {

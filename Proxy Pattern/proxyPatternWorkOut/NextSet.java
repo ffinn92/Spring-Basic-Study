@@ -1,5 +1,5 @@
 package proxyPatternWorkOut;
 
 public interface NextSet {
-    void workOut(String shouting);
+    void workOut(String shouting) throws InterruptedException;
 }

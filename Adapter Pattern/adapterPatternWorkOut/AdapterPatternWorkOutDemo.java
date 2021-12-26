@@ -5,6 +5,8 @@ public class AdapterPatternWorkOutDemo {
         PowerRack powerRack = new PowerRack();
 
         powerRack.workOut(4,"스쿼트");
+        powerRack.workOut(10,"벤치프레스");
+        powerRack.workOut(13,"바벨로우");
     }
 
 }

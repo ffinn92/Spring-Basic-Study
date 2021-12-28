@@ -8,5 +8,4 @@ public class AdapterPatternWorkOutDemo {
         powerRack.workOut(10,"벤치프레스");
         powerRack.workOut(13,"바벨로우");
     }
-
 }

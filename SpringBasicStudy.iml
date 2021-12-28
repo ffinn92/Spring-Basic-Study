@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Proxy Pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Decorator Pattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Factory Method Pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Template Mehod Pattern" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
